@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-blog-app",
+  "version": "1.0.0",
+  "description": "Nuxt Js Blog App With Node Js API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotin-lab/Nuxt-Js-Blog-App-With-Node-Js-API.git"
+  },
+  "keywords": [
+    "nuxt.js",
+    "node.js",
+    "blog"
+  ],
+  "author": "Kotin Lab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotin-lab/Nuxt-Js-Blog-App-With-Node-Js-API/issues"
+  },
+  "homepage": "https://github.com/kotin-lab/Nuxt-Js-Blog-App-With-Node-Js-API#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20"
+  }
+}
